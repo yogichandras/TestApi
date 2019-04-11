@@ -47,8 +47,14 @@ namespace KangPismanAPITest.Controllers
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody]string value)
+        public string Post([FromBody]string username)
         {
+            if (username == null)
+                return "gagal";
+            else
+                return "sukses";
+
+
         }
 
         // PUT api/values/5
