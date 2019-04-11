@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace KangPismanAPITest.Controllers
 {
     [Route("api/[controller]")]
+    [EnableCors("AllowOrigin")]
     public class ValuesController : Controller
     {
         // GET api/values
