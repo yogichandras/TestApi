@@ -13,7 +13,7 @@ namespace KangPismanAPITest.Controllers
     {
         // GET api/values
         [HttpGet]
-        public List<ModelUser> Get()
+        public ViewUser Get()
         {
             var model = new List<ModelUser>();
             model.Add(new ModelUser
@@ -31,8 +31,11 @@ namespace KangPismanAPITest.Controllers
                 country = "Uganda"
             });
 
+            var view = new ViewUser();
+            view.result = model;
 
-            return model;
+
+            return view;
         }
 
         // GET api/values/5

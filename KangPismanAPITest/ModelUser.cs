@@ -12,4 +12,9 @@ namespace KangPismanAPITest
         public string contact { get; set; }
         public string country { get; set; }
     }
+
+    public class ViewUser
+    {
+        public List<ModelUser> result { get; set; }
+    }
 }
