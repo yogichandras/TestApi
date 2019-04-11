@@ -1,0 +1,11 @@
+C:\Users\Asynch\source\repos\KangPismanAPITest\KangPismanAPITest\bin\Debug\netcoreapp2.0\KangPismanAPITest.deps.json
+C:\Users\Asynch\source\repos\KangPismanAPITest\KangPismanAPITest\bin\Debug\netcoreapp2.0\KangPismanAPITest.runtimeconfig.json
+C:\Users\Asynch\source\repos\KangPismanAPITest\KangPismanAPITest\bin\Debug\netcoreapp2.0\KangPismanAPITest.runtimeconfig.dev.json
+C:\Users\Asynch\source\repos\KangPismanAPITest\KangPismanAPITest\bin\Debug\netcoreapp2.0\KangPismanAPITest.dll
+C:\Users\Asynch\source\repos\KangPismanAPITest\KangPismanAPITest\bin\Debug\netcoreapp2.0\KangPismanAPITest.pdb
+C:\Users\Asynch\source\repos\KangPismanAPITest\KangPismanAPITest\obj\Debug\netcoreapp2.0\KangPismanAPITest.csprojAssemblyReference.cache
+C:\Users\Asynch\source\repos\KangPismanAPITest\KangPismanAPITest\obj\Debug\netcoreapp2.0\KangPismanAPITest.csproj.CoreCompileInputs.cache
+C:\Users\Asynch\source\repos\KangPismanAPITest\KangPismanAPITest\obj\Debug\netcoreapp2.0\KangPismanAPITest.AssemblyInfoInputs.cache
+C:\Users\Asynch\source\repos\KangPismanAPITest\KangPismanAPITest\obj\Debug\netcoreapp2.0\KangPismanAPITest.AssemblyInfo.cs
+C:\Users\Asynch\source\repos\KangPismanAPITest\KangPismanAPITest\obj\Debug\netcoreapp2.0\KangPismanAPITest.dll
+C:\Users\Asynch\source\repos\KangPismanAPITest\KangPismanAPITest\obj\Debug\netcoreapp2.0\KangPismanAPITest.pdb
