@@ -13,9 +13,26 @@ namespace KangPismanAPITest.Controllers
     {
         // GET api/values
         [HttpGet]
-        public IEnumerable<string> Get()
+        public List<ModelUser> Get()
         {
-            return new string[] { "value1", "value2" };
+            var model = new List<ModelUser>();
+            model.Add(new ModelUser
+            {
+                name = "Yogi",
+                password = "1245",
+                contact ="yogichandra",
+                country = "Indonesia"
+            });
+            model.Add(new ModelUser
+            {
+                name = "Zaki",
+                password = "1245",
+                contact = "Zaki",
+                country = "Uganda"
+            });
+
+
+            return model;
         }
 
         // GET api/values/5
